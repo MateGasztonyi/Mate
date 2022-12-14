@@ -1,8 +1,8 @@
 # Build and Release Folders
 bin-debug/
 bin-release/
-[Oo]bj/
-[Bb]in/
+[Oo]bj/NagyFasz
+[Bb]in/23
 
 # Other files and folders
 .settings/
